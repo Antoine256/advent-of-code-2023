@@ -10,8 +10,8 @@ My repository for the 2023 advent of code
 
 ## RealDragonMA
 
-<a>https://github.com/RealDragonMA/Advent-of-code-2023
+> 🎄 [Advent of Code 2023](https://github.com/RealDragonMA/Advent-of-code-2023)
 
 ## PaulDrevet
 
-<a>https://github.com/PaulDrevet/advent_of_code_2023
+> 🎁 [Advent of Code 2023](https://github.com/PaulDrevet/advent_of_code_2023)
