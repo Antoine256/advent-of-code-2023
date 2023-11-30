@@ -6,7 +6,7 @@ My repository for the 2023 advent of code
 
 ![This is a fir image.](/assets/fir.png "This is a fir image.")
 
-# Les repositories des copains
+# Les dépôts des copains
 
 ## RealDragonMA
 
