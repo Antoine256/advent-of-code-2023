@@ -3,6 +3,7 @@
 My repository for the 2023 advent of code
 
 <a>https://adventofcode.com/2023
+### 2 ⭐
 
 ![This is a fir image.](/assets/fir.png "This is a fir image.")
 
