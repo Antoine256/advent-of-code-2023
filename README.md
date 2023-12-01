@@ -2,7 +2,7 @@
 # <p align="center">advent-of-code-2023<p>
 <p align="center">My repository for the 2023 advent of code</p>
 
-<p align="center"><a>https://adventofcode.com/2023</a></p>
+<p align="center"><a href="https://adventofcode.com/2023">Advent of code website 🎅</a></p>
 
 ### <p align="center">2 ⭐</p>
 <p align="center">
