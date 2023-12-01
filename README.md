@@ -1,11 +1,13 @@
 
-# <center>advent-of-code-2023
-<center>My repository for the 2023 advent of code
+# <p align="center">advent-of-code-2023<p>
+<p align="center">My repository for the 2023 advent of code</p>
 
-<a>https://adventofcode.com/2023
-### <center>2 ⭐
+<p align="center"><a>https://adventofcode.com/2023</a></p>
 
-![This is a fir image.](/assets/fir.png "This is a fir image.")
+### <p align="center">2 ⭐</p>
+<p align="center">
+    <img src="./assets/fir.png" alt="fir image">
+</p>
 
 # Les dépôts des copains
 
@@ -16,4 +18,3 @@
 ## PaulDrevet
 
 > 🎁 [Advent of Code 2023](https://github.com/PaulDrevet/advent_of_code_2023)</center>
-```
