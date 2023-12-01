@@ -21,6 +21,6 @@
 
 ### Elyroma
 
-> 🎁 [Advent of Code 2023](https://github.com/Elyroma/AdventOfCode)</center>
+> ☃️ [Advent of Code 2023](https://github.com/Elyroma/AdventOfCode)</center>
 
 
