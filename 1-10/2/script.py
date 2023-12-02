@@ -1,5 +1,3 @@
-#1454
-#369
 f = open("./input.txt", "r")
 sum = 0
 sum2 = 0
@@ -29,6 +27,7 @@ for i in f:
         sum = sum + int(splitA[0].split(" ")[1])
 print(sum)
 print(sum2)
+f.close()
 
 
 
