@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://adventofcode.com/2023">Advent of code website 🎅</a></p>
 
-### <p align="center">6 ⭐</p>
+### <p align="center">8 ⭐</p>
 <p align="center">
     <img src="./assets/fir.png" alt="fir image">
 </p>
